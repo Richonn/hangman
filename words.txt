@@ -1,0 +1,10 @@
+table
+chaise
+bureau
+pieds
+parfum
+voiture
+lampe
+piano
+souris
+guitare
