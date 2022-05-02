@@ -33,13 +33,14 @@ while not find:
         print(l, end=" | ")
     print()
 
+    if right == len_word:
+        find = True
+
     if wrong > 5:
         print("\nTu as perdu !")
         print("Mot - {}".format(word))
         break
 
-    if right == len_word:
-        find = True
 
     if find == True:
         print("\nTu as gagné !")
