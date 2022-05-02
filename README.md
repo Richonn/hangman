@@ -1,7 +1,7 @@
 # hangman
 Here is a Hangman game
 
-Classical rules, there's a hiden word, 
+Classical rules, there's a hiden word,
 your job is to discover it by guessing letters that could be in the word
 
 If you discover the word, you win.
